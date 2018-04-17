@@ -17,6 +17,8 @@ eggs/
 .eggs/
 lib/
 lib64/
+node_modules/
+ypopup/static/bundle.js
 parts/
 sdist/
 var/

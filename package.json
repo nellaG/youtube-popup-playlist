@@ -1,0 +1,27 @@
+{
+  "name": "ypopup",
+  "version": "1.0.0",
+  "description": "youtube popup playlist",
+  "repository": "git@github.com:nellaG/youtube-popup-playlist.git",
+  "author": "nellaG <seirios0107@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Not yet implemented.\" && exit 1",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.14"
+  }
+}
